@@ -46,7 +46,7 @@ public class PlayerMover : MonoBehaviour
             // Stop the player from moving when they collide with a wall
             speed = 100;
             Invoke("Done", 2f);
-            
+
         }
 
     }
@@ -56,11 +56,11 @@ public class PlayerMover : MonoBehaviour
     }
     void PlayerX(float w)
     {
-        rb.velocity = new Vector2(w * speed,0f);
+        rb.velocity = new Vector2(w * speed, 0f);
     }
 
     void PlayerY(float w)
     {
-        rb.velocity = new Vector2(0f , w * speed);
+        rb.velocity = new Vector2(0f, w * speed);
     }
 }
