@@ -2,7 +2,7 @@
 
 ## [Link To The Game On 'itch.io'](https://gamedevbc.itch.io/algo-thinking)
 
-* A game about thinking ahead
+* A game about thinking ahead it requiring strategic thinking and spatial reasoning skills to progress
 
 A script and the folder:
 
